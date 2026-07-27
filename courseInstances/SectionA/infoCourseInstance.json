@@ -4,6 +4,6 @@
   "comment": "to organize this course instance by module, use `groupAssessmentsBy:Module`",
   "publishing": {
     "startDate": "1900-01-19T00:00:01",
-    "endDate": "2400-05-13T23:59:59"
+    "endDate": "2099-05-13T23:59:59"
   }
 }
